@@ -1,0 +1,21 @@
+.Main_Text_Window {
+    border-color: red;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 50px;
+    background: linear-gradient(to right bottom, red, blue);
+}
+
+.Main_Text {
+    font-style: italic;
+    font-weight: 100;
+    background: linear-gradient(to left top, red, blue);
+    font-family: "American Typewriter";
+    font-size: 60px;
+    color: blue;
+    border-width: 10px;
+    border-color: blue;
+    border-radius: 50px;
+    border-style: solid;
+}
+
